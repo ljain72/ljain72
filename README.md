@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Labdhi Jain</h1>
 <h3 align="center">A passionate Cloud developer and AI graduate.</h3>
 
-- 🔭 I’m currently working on **Session-based Recommender System**
+- 🔭 I’m currently working on **CloudResource-to-code**
 
 - 📫 How to reach me **labdhi96jain@gmail.com**
 
